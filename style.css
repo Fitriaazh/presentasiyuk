@@ -1,0 +1,28 @@
+@media screen and (min-width:200px){
+    h1 {
+      color:darkred;
+  }
+  @media screen and (max-width:198px) {
+  
+  }
+  body {
+    background-color: rgb(189, 228, 205);
+   }
+  
+   @font-face {
+     font-family: Smartgen;
+     src: url(LobsterTwo-Bold.ttf);
+   }
+   
+   h1 {
+     font-family: 'Smartgen';
+     font-variant: inherit;
+     font: size 46px;
+     font-weight: 900;
+    color: rgb(40, 48, 95);
+    margin-left: 20px;
+    text-align: center;
+    position: relative;
+    top: 100px
+    border: 1px solid #000;
+   }
